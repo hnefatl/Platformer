@@ -2,16 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Ionic.Zip;
 
-namespace Platformer
+namespace Global.Saves
 {
-    public abstract class Entity
+    public class LevelPack
     {
-
-
-        public Entity()
-        {
-
-        }
+        
     }
 }
